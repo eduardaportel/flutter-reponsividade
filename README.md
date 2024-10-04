@@ -1,2 +1,2 @@
-## desenvolvimento de telas reponsivas com Flutter
+## desenvolvimento de aplicação reponsiva com Flutter
 
